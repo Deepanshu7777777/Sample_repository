@@ -1,2 +1,2 @@
 # Sample_repository
-Sample Repository 
+Sample Repository code base
